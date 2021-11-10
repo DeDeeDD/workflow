@@ -4,4 +4,5 @@ body{
 p{
     color: red;
     font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
 }
